@@ -98,7 +98,8 @@ Details of the guards.
 
 The HostelOutingApplication aims to facilitate efficient management of student outings, ensuring proper permissions and validation are handled seamlessly. Each actor—Student, Warden, and Guard—has distinct functionalities to ensure a smooth and controlled outing process.
 
-For any issues or feature requests, please contact [Support Contact Information].
+For any issues or feature requests, please contact [krishnaasinghbisht@gmail.com]
+
 
 
 
